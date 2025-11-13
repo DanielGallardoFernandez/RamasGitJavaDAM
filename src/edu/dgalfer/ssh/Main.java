@@ -18,6 +18,7 @@ public class Main {
         // Número complementario
         int c = rnd.nextInt(0,20)+1;
         System.out.println("Números de la Lotería Primitiva:" + p1 + p2 + p3 + p4 + p5+c);
+        System.out.println("¡Buena suerte en el sorteo!");
 	}
 
 }
